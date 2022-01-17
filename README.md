@@ -6,8 +6,9 @@ This is an app which I developed for anime fans like myself to come and interact
 
 ## The App
 
-<img src='https://im3.ezgif.com/tmp/ezgif-3-ecd0ccf899.gif'>
+![techijouappgif](https://user-images.githubusercontent.com/69068704/149739153-a1f01844-bdba-462e-81fe-53ec56ebaf5a.gif)
 
+NOTE: The app is faster and has clean transitions between the screens compared to the gif above.
 ## Tools Used
 
 1)Flutter and its pakages.
